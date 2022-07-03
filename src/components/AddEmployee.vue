@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Add Employee Component</h1>
+        <h1>Add Employee</h1>
         <b-container>
             <div>
                 <b-form @submit="onSubmit" @reset="onReset" v-if="show">
